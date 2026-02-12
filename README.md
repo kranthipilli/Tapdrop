@@ -31,7 +31,3 @@ Real NFC-triggered peer discovery and offline file transfer stack for Android.
 4. Wire FlutterFlow custom actions to `TapdropNativeBridge` methods.
 5. Replace placeholder socket peer IP/keying with negotiated Wi-Fi Direct + ECDH session material.
 6. Validate with two physical NFC-enabled Android devices.
-
-## Build on Samsung S23
-
-See `docs/build_apk_samsung_s23.md` for exact setup, host integration, build, and install steps for a real APK on Samsung S23.
